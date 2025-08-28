@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 
 
+
 <a href="https://github.com/mattheww95/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mattheww95&theme=dark&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mattheww95" />
 </a>
 <a href="https://github.com/mattheww95/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheww95&langs_count=8&hide_progress=true&theme=dark&show_icons=true&card_wdth=320&layout=compact" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mattheww95&layout=compact&langs_count=8&card_width=320" />
 </a>
